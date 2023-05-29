@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(3, 255, 242);
+    color:rgb(0, 0, 0);
+    font: size 100px;;
+    font-style: bold;
+}
+
+.logoescola {
+    width: 40%;
+}
+
+.meio{
+    justify-content: space-around;
+    Display:flex;
+}
+
+.topico{
+    margin-right: 10cm;
+    
+}
